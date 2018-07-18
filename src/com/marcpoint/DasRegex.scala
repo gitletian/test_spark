@@ -12,7 +12,7 @@ import scala.util.parsing.json.JSON
 import java.util.regex.Pattern
 
 
-object DasTestRegex {
+object DasRegex {
 
 	val url: String = "jdbc:mysql://172.16.1.100:3306/das"
 	val prop: Properties = {

@@ -6,6 +6,12 @@
         <name>hive.metastore.uris</name>
         <value>thrift://mphd01:9083</value>
     </property>
+
+    <property>
+        <name>javax.jdo.option.ConnectionURL</name>
+        <value>jdbc:mysql://localhost/metastore</value>
+        <description>JDBC connect string for a JDBC metastore</description>
+    </property>
     <property>
         <name>hive.metastore.client.socket.timeout</name>
         <value>300</value>

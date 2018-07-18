@@ -84,7 +84,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/datanucleus-rdbms-3.2.9.jar!/" />
+          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/postgresql-9.0-801.jdbc4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -93,7 +93,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/datanucleus-core-3.2.10.jar!/" />
+          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/mysql-connector-java.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -111,7 +111,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/postgresql-9.0-801.jdbc4.jar!/" />
+          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/datanucleus-core-3.2.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -120,7 +120,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/mysql-connector-java.jar!/" />
+          <root url="jar:///usr/local/Cellar/spark-1.6.0-bin-custom-spark/lib/datanucleus-rdbms-3.2.9.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
